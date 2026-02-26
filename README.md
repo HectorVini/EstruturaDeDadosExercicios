@@ -3,3 +3,6 @@
 **podem estar incompletos ou haver algum tipo de erro***)
 - Alocação Dinâmica - malloc() - realloc()
 - Recursão
+- TAD(Tipo Abstrato de Dados)
+- Encadeamento pilha
+- Encadeamento lista
