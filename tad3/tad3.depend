@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666065068 source:/home/hector/Projects/ED1/ExerciciosED1/TAD/tad3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"hora.h"
+
+1666058703 source:/home/hector/Projects/ED1/ExerciciosED1/TAD/tad3/hora.c
+	<stdio.h>
+	<string.h>
+	"hora.h"
+
+1665117680 /home/hector/Projects/ED1/ExerciciosED1/TAD/tad3/hora.h
+
